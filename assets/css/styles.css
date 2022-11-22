@@ -1,0 +1,66 @@
+body {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: black;
+}
+
+.subtitulo {
+    margin-top: 1;
+    margin-bottom: 0;
+}
+
+.header {
+    height: 5em;
+    padding: 2em;
+    font-size: 2em;
+    background-image: url(/assets/imgs/jesse-collins-lrmo2hlFYE4-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.header h1 {
+    text-align: center;
+    color: white;
+    margin: 5px 16px 16px 16px;
+    font-weight: 350;
+}
+
+.header p {
+    text-align: center;
+    color: blanchedalmond;
+    margin: 24px 16px 16px 16px;
+}
+    /* cambios dentro de la tabla */
+.products {
+    width: 80%;
+    margin: auto;
+    padding: 10px 16px 10px 16px;
+}
+
+.products td {
+    width: 50%;
+    padding: 2em;
+}
+
+.products img {
+    width: 80%;
+    padding: 0px;
+    border: solid 2px rgb(24, 50, 50);
+}
+
+.products p {
+    width: 60%;
+    margin: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: inherit;
+}
+    /*Cambios en el footer*/
+.footer {
+    height: 5em;
+    line-height: 4em;
+    background-color: rgb(8, 69, 69);
+    text-align: center;
+    color: azure;
+
+}
