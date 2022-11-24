@@ -3,6 +3,8 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-style: normal;
     color: black;
+    background-size: cover;
+    margin: auto;
 }
 
 .subtitulo {
@@ -62,5 +64,5 @@ body {
     background-color: rgb(8, 69, 69);
     text-align: center;
     color: azure;
-
+    background-size: cover;
 }
